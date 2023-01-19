@@ -2406,7 +2406,14 @@
   ],
   "users": [
     {
-      "mobile_no": 8359833649,
+      "mobile_no": 1234567890,
+      "name": "Pablo",
+      "address": {
+        "house_no": 420,
+        "city": "Hatta",
+        "state": "Madhya Pradesh",
+        "pincode": 470775
+      },
       "cart": [
         {
           "id": 1,
@@ -2429,36 +2436,8 @@
           },
           "rating": 3.9,
           "seller_id": 1
-        },
-        {
-          "id": 2,
-          "category": "Sarees",
-          "title": "SGI Fancy Heavy Daani",
-          "original_price": 314,
-          "discounted_price": 220,
-          "sizes": ["Free Size"],
-          "images": [
-            "https://images.meesho.com/images/products/72010202/dgemx_512.jpg",
-            "https://images.meesho.com/images/products/72010202/dgemx_512.jpg",
-            "https://images.meesho.com/images/products/72010202/dgemx_512.jpg",
-            "https://images.meesho.com/images/products/72010202/dgemx_512.jpg"
-          ],
-          "details": {
-            "Fabric": "Chiffon",
-            "Pattern": "Self Design",
-            "Multipack": "Single",
-            "Description": "Best qaualtiy "
-          },
-          "rating": 2.4,
-          "seller_id": 2
         }
       ],
-      "address": {
-        "house_no": 420,
-        "city": "Hatta",
-        "state": "Madhya Pradesh",
-        "pincode": 470775
-      },
       "order": [
         {
           "id": 1,
